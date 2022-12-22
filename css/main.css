@@ -1,8 +1,21 @@
 body {
-    background: black;
+    background: white;
     color: white;
 }
 
 h1 {
-    color: cadetblue;
+    color: dimgray;
+    font-size:40px;
+}
+
+p {
+color: black;
+}
+
+ul {
+color: black;
+}
+
+h2 {
+color: black;
 }
