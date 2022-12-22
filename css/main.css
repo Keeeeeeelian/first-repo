@@ -1,5 +1,4 @@
 body {
-    background: white;
     color: white;
 }
 
@@ -9,13 +8,22 @@ h1 {
 }
 
 p {
-color: black;
+    color: black;
 }
 
 ul {
-color: black;
+    color: black;
+    max-width: 450px;
 }
 
 h2 {
-color: black;
+    color: black;
+}
+
+p:hover {
+    background-color: red;
+}
+
+p.reference {
+    font-family: "Courier New";
 }
